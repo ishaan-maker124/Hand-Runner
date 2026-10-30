@@ -1,10 +1,10 @@
-# Gesture Subway Runner 3D
+# Hand-Runner
 
 A web-based 3D endless runner game inspired by *Subway Surfers*, built using **Three.js** for rendering and **MediaPipe Hands** for real-time webcam gesture controls.
 
 ## 🎮 About the Game
 
-**Gesture Subway Runner 3D** lets players dodge obstacles, jump over hurdles, duck under archways, and collect coins in a 3D environment. You can control the player either using physical hand gestures captured by your computer's webcam or with standard keyboard controls.
+**Hand-Runner** lets players dodge obstacles, jump over hurdles, duck under archways, and collect coins in a 3D environment. You can control the player either using physical hand gestures captured by your computer's webcam or with standard keyboard controls.
 
 ### Key Features
 
